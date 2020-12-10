@@ -1,0 +1,16 @@
+{
+  "name": "conversorDeTemperatura",
+  "version": "1.0.0",
+  "description": "Converso de temperatura em node",
+  "main": "index.js",
+  "author": "vitor-risso",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.6",
+    "puppeteer": "^5.5.0",
+    "readline-sync": "^1.4.10"
+  },
+  "scripts": {
+    "dev": "nodemon index.js"
+  }
+}
